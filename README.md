@@ -1,2 +1,4 @@
-# api
-server side API to read, write and search data
+# Stainglass API
+A server side API to store, read and update data from different Kisoks and service desk units.
+
+
